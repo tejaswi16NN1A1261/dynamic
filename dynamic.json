@@ -1,0 +1,42 @@
+{
+  "career":{
+    "info":"to work in an environment where we can develop skills and knowldge"
+  },
+  "education":[
+    {
+      "degree":"btech(IT)",
+      "institution":"Vignan Nirula",
+      "YOP":"2020",
+      "percentage":"80"
+    },
+    {
+      "degree":"intermediate",
+      "institution":"Sri Kakathiya junior college",
+      "YOP":"2016",
+      "percentage":"94"
+    },
+    {
+      "degree":"ssc",
+      "institution":"Sri Kakathiya high school",
+      "YOP":"2014",
+      "percentage":"88"
+    }
+  ],
+    "skills":[
+      {
+        "title":"platforms",
+        "content":"windows"
+      },
+      {
+        "title":"programming languages",
+        "content":"c,c++,java,html,css"
+      },
+      {
+        "title":"databses",
+        "content":"sql,mysql,plsql"
+      }
+
+    ],
+    "languages":"telugu,english,hindi"
+
+}
